@@ -26,7 +26,7 @@
 
 
 ### Краткая информация о данных
-Наши данные - база резюме, выгруженная с сайта поиска вакансий hh.ru [hh_database.csv](https://drive.google.com/drive/folders/1y2vusa3u_LIQ71Qhe6Gif_taWpfb5LrV) 
+[Наши данные](https://drive.google.com/drive/folders/1y2vusa3u_LIQ71Qhe6Gif_taWpfb5LrV) - база резюме, выгруженная с сайта поиска вакансий hh.ru
 Данные представляют собой 44744 наблюдения по следующим признакам:
 - Пол, возраст
 - ЗП
